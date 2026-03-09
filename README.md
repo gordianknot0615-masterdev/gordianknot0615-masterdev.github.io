@@ -1,7 +1,7 @@
 # gordianknot0615-masterdev.github.io
 <h3 align="center">A passionate Full-Stack engineer from United States</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: gordianknot0615@gmail.com</h3>
 <p align="left">
 </p>
 
